@@ -12,9 +12,11 @@ Modeling of non-rigid object launching and manipulation is complex considering t
 
 ![](https://github.com/ayaanzhaque/FCE-NN/blob/main/images/model_fig.png?raw=true)
 
-## Dataset
-
 ## Results
+
+## Code
+
+Our scripts and code are provided in the repo. We provide the loop to perform force coefficient estimation as well as a barebones neural network with correct node configurations. However, we recommend this network is substituted with a deeper and more effective network. The force coefficient estimator code is in [```fce.py```](https://github.com/ayaanzhaque/FCE-NN/blob/main/fce.py).
 
 ## Citation
 
