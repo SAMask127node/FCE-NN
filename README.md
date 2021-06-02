@@ -31,7 +31,7 @@ This graph shows comparison of experimentally measured trajectories and trajecto
 
 ## Code
 
-Our scripts and code are provided in the repo. We provide the loop to perform force coefficient estimation as well as a barebones neural network with correct node configurations. However, we recommend this network is substituted with a deeper and more effective network. The force coefficient estimator code is in [```fce.py```](https://github.com/ayaanzhaque/FCE-NN/blob/main/fce.py).
+Our scripts and code are provided in the repo. We provide the loop to perform force coefficient estimation as well as a barebones neural network with correct node configurations. However, we recommend this network is substituted with a deeper and more effective network. The force coefficient estimator code is in [```fce.py```](https://github.com/ayaanzhaque/FCE-NN/blob/main/fce.py). The barebones neural network architecture is provided in [```nn.py```](https://github.com/ayaanzhaque/FCE-NN/blob/main/nn.py). The neural network was written in Keras.
 
 ## Citation
 
