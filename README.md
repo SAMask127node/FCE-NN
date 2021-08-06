@@ -8,7 +8,7 @@ We present FCE-NN, a novel method of modeling robotic launching of non-rigid obj
     <a href="https://www.youtube.com/watch?v=rkAp8RS7gqc">
         <img src="https://img.youtube.com/vi/rkAp8RS7gqc/0.jpg" alt="Thumbnail"/>
         <br />
-        Watch on Oral Presentation
+        Watch our Oral Presentation
     </a>
 </p>
 
