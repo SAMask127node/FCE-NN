@@ -1,6 +1,6 @@
 # [FCE-NN](https://ayaanzhaque.github.io/FCE-NN/)
 
-This repository contains the implementation of the paper ["Simulated Data Generation Through Algorithmic Force Coefficient Estimation for AI-Based Robotic Projectile Launch Modeling"](https://arxiv.org/abs/2105.12833) by Sajiv Shah*, Ayaan Haque*, and Fei Liu. In [ACIRS](http://www.acirs.org/), 2021.
+This repository contains the implementation of the paper ["Simulated Data Generation Through Algorithmic Force Coefficient Estimation for AI-Based Robotic Projectile Launch Modeling"](https://arxiv.org/abs/2105.12833) by Sajiv Shah*, Ayaan Haque*, and Fei Liu from Saratoga High School and UC San Diego. In [ACIRS](http://www.acirs.org/), 2021.
 
 We present FCE-NN, a novel method of modeling robotic launching of non-rigid objects using neural networks which are trained with supplemental simulated data, generated from algorithmic force coefficient estimation.
 
